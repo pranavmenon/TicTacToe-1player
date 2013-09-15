@@ -957,41 +957,41 @@ void main()
 							switch(ch1[0])		
 							{
 								case '1':if(a=='O' || a=='X')    					           
-											chk=1;
-										else
-											{a='O';chk=0;}break;
+										chk=1;
+									else
+										{a='O';chk=0;}break;
 								case '2':if(b=='O' || b=='X')
-											chk=1;
-										else
-											{b='O';chk=0;}break;
+										chk=1;
+									else
+										{b='O';chk=0;}break;
 								case '3':if(c=='O' || c=='X')
-											chk=1;
-										else
-											{c='O';chk=0;}break;
+										chk=1;
+									else
+										{c='O';chk=0;}break;
 								case '4':if(d=='O' || d=='X')
-											chk=1;
-										else
-											{d='O';chk=0;}break;
+										chk=1;
+									else
+										{d='O';chk=0;}break;
 								case '5':if(e=='O' || e=='X')
-											chk=1;
-										else
-											{e='O';chk=0;}break;
+										chk=1;
+									else
+										{e='O';chk=0;}break;
 								case '6':if(f=='O' || f=='X')
-											chk=1;
-										else
-											{f='O';chk=0;}break;
+										chk=1;
+									else
+										{f='O';chk=0;}break;
 								case '7':if(g=='O' || g=='X')
-											chk=1;
-										else
-											{g='O';chk=0;}break;
+										chk=1;
+									else
+										{g='O';chk=0;}break;
 								case '8':if(h=='O' || h=='X')
-											chk=1;
-										else
-											{h='O';chk=0;}break;
+										chk=1;
+									else
+										{h='O';chk=0;}break;
 								case '9':if(i=='O' || i=='X')
-											chk=1;
-										else
-											{i='O';chk=0;}break;
+										chk=1;
+									else
+										{i='O';chk=0;}break;
 							}
 						}
 						while(ch1[0]<'1' || ch1[0]>'9'); // repeat this loop if input is invalid 
@@ -1034,41 +1034,41 @@ void main()
 							switch(ch1[0])	
 							{
 								case '1':if(a=='O' || a=='X')
-											chk=1;
-										else
-											{a='X';chk=0;}break;
+										chk=1;
+									else
+										{a='X';chk=0;}break;
 								case '2':if(b=='O' || b=='X')
-											chk=1;
-										else
-											{b='X';chk=0;}break;
+										chk=1;
+									else
+										{b='X';chk=0;}break;
 								case '3':if(c=='O' || c=='X')
-											chk=1;
-										else
-											{c='X';chk=0;}break;
+										chk=1;
+									else
+										{c='X';chk=0;}break;
 								case '4':if(d=='O' || d=='X')
-											chk=1;
-										else
-											{d='X';chk=0;}break;
+										chk=1;
+									else
+										{d='X';chk=0;}break;
 								case '5':if(e=='O' || e=='X')
-											chk=1;
-										else
-											{e='X';chk=0;}break;
+										chk=1;
+									else
+										{e='X';chk=0;}break;
 								case '6':if(f=='O' || f=='X')
-											chk=1;
-										else
-											{f='X';chk=0;}break;
+										chk=1;
+									else
+										{f='X';chk=0;}break;
 								case '7':if(g=='O' || g=='X')
-											chk=1;
-										else
-											{g='X';chk=0;}break;
+										chk=1;
+									else
+										{g='X';chk=0;}break;
 								case '8':if(h=='O' || h=='X')
-											chk=1;
-										else
-											{h='X';chk=0;}break;
+										chk=1;
+									else
+										{h='X';chk=0;}break;
 								case '9':if(i=='O' || i=='X')
-											chk=1;
-										else
-											{i='X';chk=0;}break;
+										chk=1;
+									else
+										{i='X';chk=0;}break;
 							}
 						}
 						while(ch1[0]<'1' || ch1[0]>'9');
