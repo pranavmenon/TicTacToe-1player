@@ -582,7 +582,7 @@ void aio(char &a, char &b, char &c, char &d, char &e, char &f, char &g, char &h,
    else
 
 
-										// If first 'X' is put in a corner
+			        	// If first 'X' is put in a corner
 
    // 'X' at 1
    // Always best to put 'O' at center
