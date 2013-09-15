@@ -20,7 +20,7 @@
 /**
  *	Summary: Draws the 3x3 cross on the screen with the appropriate values for a,b,c,d,e,f etc.
  * 	Parameters: 1. 'a-i' are the 9 positions inside the grid (they are null initialy)
- *				2. 'ypos' is the y-coordinate of the cursor
+ *		    2. 'ypos' is the y-coordinate of the cursor
  *	Return: None
  */
  
