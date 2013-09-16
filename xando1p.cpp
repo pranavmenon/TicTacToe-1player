@@ -62,7 +62,7 @@ void cross(char a,char b,char c,char d,char e,char f,char g,char h,char i, int y
    
 void aix(char &a, char &b, char &c, char &d, char &e, char &f, char &g, char &h, char &i, int &xpos) 
 {
-	sleep(2); char A=a, B=b, C=c, D=d, E=e, F=f, G=g, H=h, I=i; // Required to show input
+   sleep(2); char A=a, B=b, C=c, D=d, E=e, F=f, G=g, H=h, I=i; // Required to show input
 
    // For getting 3 'X' in a row
 
@@ -774,7 +774,7 @@ void aio(char &a, char &b, char &c, char &d, char &e, char &f, char &g, char &h,
    	d3='O';
    else
 
-   										// If first 'X' is at center
+   					// If first 'X' is at center
 
    // Always best to put 'O' at corner
    
